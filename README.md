@@ -17,4 +17,9 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-## Personal Projects
+<br>
+<br>
+<br>
+
+## <p align="center" >Personal Projects</p>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ncalhoun2&repo=Gym-Fam)](https://github.com/ncalhoun2/Gym-Fam) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ncalhoun2&repo=swiftie)](https://github.com/ncalhoun2/swiftie)

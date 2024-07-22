@@ -22,4 +22,4 @@
 <br>
 
 ## <p align="center" >Personal Projects</p>
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ncalhoun2&repo=Gym-Fam)](https://github.com/ncalhoun2/Gym-Fam) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ncalhoun2&repo=swiftie)](https://github.com/ncalhoun2/swiftie)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ncalhoun2&repo=swiftie)](https://github.com/ncalhoun2/swiftie)

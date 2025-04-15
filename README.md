@@ -2,7 +2,6 @@
 
 ### Education <p align="right" >Loyola Chicago</p>  
 *<p align="right" >Bachelors Degree of Computer Science</p>*
-<img align="right" src="https://seeklogo.com/images/L/loyola-university-chicago-logo-CDFF26AD8E-seeklogo.com.png" alt="GitHub Logo" width="30"/>
 <br>
 <hr>
 

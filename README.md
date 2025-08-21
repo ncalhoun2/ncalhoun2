@@ -50,9 +50,8 @@
 
 ## 🔗 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nick-calhoun)  
-- 📧 **nickcalhoun.dev@gmail.com**  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) _(drop me your link if you want it added)_  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nick-calhoun-625730147/)  
+- 📧 **calhounnick059@gmail.com**  
 
 ---
 
